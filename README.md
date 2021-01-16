@@ -3,7 +3,7 @@ The purpose of this program is to scrape public series 4 SEC data and see what t
 This program only retrieves buy orders and only for the current date
 
 # Download Link
-<h2><a href=https://www.mediafire.com/file/hf25gpecbagzmvo/InsiderTradingBot.zip/file>Download Here</a></h2>
+<a href=https://www.mediafire.com/file/hf25gpecbagzmvo/InsiderTradingBot.zip/file>Download Here</a>
 
 # Instructions:
 1) Download / clone project
